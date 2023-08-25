@@ -1,5 +1,5 @@
 # AlinhamentoAutomotivo
-Projeto proprio.
+Projeto pròprio.
 Tecnologias utilizadas: JavaScript, Php, Mysql ,Html5, css3 
 ## Sistema com medidas para alinhamento automotivo
 ## https://abbacarservice.com.br/alinhamento
