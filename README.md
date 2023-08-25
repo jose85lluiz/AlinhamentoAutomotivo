@@ -9,8 +9,8 @@ Tecnologias utilizadas: JavaScript, Php, Mysql ,Html5, css3
 
 ![](screen3.png)
 
-Sistema consome base de dados json com dados das medidas de
-alinhamnto de cada veiculo.
+Sistema consome base de dados json com medidas padrão 
+de fabrica de alinhamento de cada veiculo.
 
 ![](screen4.png)
 
